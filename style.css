@@ -1,0 +1,32 @@
+body {
+    background-color: lemonchiffon;
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    background-color: ghostwhite;
+}
+
+header {
+    padding: 40px;
+    height: 80px;
+}
+
+nav {
+    padding: 8px 40px;
+    background-color: #99CC99;
+    color: white;
+}
+
+article {
+    padding: 40px;
+    min-height : 400px;
+}
+
+footer {
+    padding: 40px;
+    height: 40px;
+    background-color : lightsalmon;
+    color: white;
+}
